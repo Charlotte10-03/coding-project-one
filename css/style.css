@@ -46,7 +46,7 @@ nav a {
     color:#333;
     font-weight: bold;
 }
-mav .topnav li.mobile {
+nav .topnav li.mobile {
     display: none;
 }
 @media (max-width: 903px) {
@@ -176,37 +176,37 @@ ul.breadcrumb li+li:before {
 .one.column {
     width: 5.1%;
 }
-.two.column {
+.two.columns {
     width: 13.3%;
 }
-.three.column {
+.three.columns {
     width: 22%;
 }
-.four.column {
+.four.columns {
     width: 30.6%;
 }
-.five.column {
+.five.columns {
     width: 39.3%;
 }
-.six.column {
+.six.columns {
     width: 48%;
 }
-.seven.column {
+.seven.columns {
     width: 56.6%;
 }
-.eight.column {
+.eight.columns {
     width: 65.3%;
 }
-.nine.column {
+.nine.columns {
     width: 74.0%;
 }
-.ten.column {
+.ten.columns {
     width: 82.6%;
 }
-.eleven.column {
+.eleven.columns {
     width: 91.3%;
 }
-.twelve.column {
+.twelve.columns {
     width: 100%;
     margin-left: 0;
 }
