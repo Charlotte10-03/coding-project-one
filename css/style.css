@@ -579,7 +579,7 @@ td:last-child {
     transition: 0.3s;
     font-weight: bold;
     border-radius: 0;
-    margin-left: 1px;
+    margin-right: 1px;
 }
 .tab button:hover {
     background-color: #CAC7BB;
@@ -629,7 +629,7 @@ td:last-child {
     margin: 0;
 }
 .expanding-grid .column {
-    text-align:center;
+    text-align: center;
     font-size: 25px;
     cursor: pointer;
     color: white;
