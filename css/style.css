@@ -451,13 +451,13 @@ textarea {
     padding-bottom: 6px;
     resize: none;
 }
-input[type="email"]
-input[type="number"]
-input[type="search"]
-input[type="text"]
-input[type="tel"]
-input[type="url"]
-input[type="password"]
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="text"],
+input[type="tel"],
+input[type="url"],
+input[type="password"],
 textarea,
 select {
     padding: 6px 2%;
@@ -467,13 +467,13 @@ select {
     box-shadow: none;
     width: 96%;
 }
-input[type="email"]
-input[type="number"]
-input[type="search"]
-input[type="text"]
-input[type="tel"]
-input[type="url"]
-input[type="password"]
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="text"],
+input[type="tel"],
+input[type="url"],
+input[type="password"],
 textarea {
     -webkit-appearance: none;
        -moz-appearance: none;
