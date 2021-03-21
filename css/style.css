@@ -490,7 +490,7 @@ select:focus {
     border: 1px solid #33C3F0;
     outline: 0; }
 
-input[type="checkbox"]
+input[type="checkbox"],
 input[type="radio"] {
     display: inline;
 }
@@ -520,6 +520,7 @@ input[type="button"] {
     text-align: center;
     text-decoration: none;
     background-color: #7453EF;
+    border: 2px solid #7453EF;
     cursor: pointer;
     border-radius: 4px;
 }
